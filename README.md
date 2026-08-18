@@ -13,8 +13,8 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-JÚLIO RICARDO-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/05julioricardo-stack">
+    <img src="https://img.shields.io/badge/GitHub-05julioricardo-stack-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.instagram.com/riicardogama?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
     <img src="https://img.shields.io/badge/Instagram-riicardogama-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
